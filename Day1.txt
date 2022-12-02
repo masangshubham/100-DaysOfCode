@@ -1,0 +1,9 @@
+Topic: Strings in C++
+Questions:
+1) https://leetcode.com/problems/jewels-and-stones/
+2) https://leetcode.com/problems/sorting-the-sentence/ -- good
+3) https://leetcode.com/problems/to-lower-case/
+4) https://leetcode.com/problems/determine-if-string-halves-are-alike/
+5) https://www.codingninjas.com/codestudio/problems/reverse-the-string_799927?leftPanelTab=0
+
+Web Development- Learned basics of mongoDB and used it in local system
