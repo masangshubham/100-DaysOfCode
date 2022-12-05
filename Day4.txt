@@ -1,0 +1,5 @@
+Topic: Binary search
+problems:
+1) https://leetcode.com/problems/search-insert-position/ -- good use binary search if target found return index else return correct position where it will be placed;
+2) https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i
+3)https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i
