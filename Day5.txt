@@ -1,0 +1,3 @@
+Questions:
+1) https://leetcode.com/problems/squares-of-a-sorted-array/description/
+2) https://leetcode.com/problems/rotate-array/description/?envType=study-plan&id=algorithm-i -array rotate k times good
