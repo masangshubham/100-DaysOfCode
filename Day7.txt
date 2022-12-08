@@ -1,0 +1,4 @@
+Questions:
+1) https://practice.geeksforgeeks.org/problems/3-divisors3942/1 -- math question good learned a new way to find perfect square
+2) https://leetcode.com/problems/reverse-string/?envType=study-plan&id=algorithm-i
+3) https://leetcode.com/problems/reverse-words-in-a-string-iii/?envType=study-plan&id=algorithm-i -good
