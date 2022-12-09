@@ -1,0 +1,4 @@
+Questions:
+1) https://practice.geeksforgeeks.org/problems/black-and-white-1587115620/1 -ptod
+2) https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=study-plan&id=algorithm-i --leetcode linkedlist from algorithms revise
+3) https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=study-plan&id=algorithm-i --revise
