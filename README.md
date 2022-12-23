@@ -1,4 +1,4 @@
-#100-DaysOfCode
+#DSA practice
 <br>
 Resources: 
 <br>
